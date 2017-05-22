@@ -1,0 +1,25 @@
+{
+  "name" : "active-require",
+  "description" : "Manage, load, and reload 'require'-based modules without restarting your application.  Works both within scripts and on the command-line.",
+  "version" : "1.0.1",
+  "main" : "index.js",
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/mcullenlewis/active-require.git"
+  },
+  "author" : {
+    "name" : "Matthew C. Lewis",
+    "email" : "mcullenlewis@gmail.com",
+    "url" : "matthewclewis.herokuapp.com"
+  },
+  "keywords" : [
+    "require",
+    "modules",
+    "load",
+    "reload",
+    "import",
+    "dependencies",
+    "process",
+    "cache"
+  ]
+}
